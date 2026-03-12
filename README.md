@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Tharun%20Naik&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Tharun%20Naik%20Ramavath&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 <h1 align="center">Hi 👋, I'm Tharun Naik Ramavath</h1>
 <h3 align="center">AI Engineer | Machine Learning | Data Science | Building Intelligent Systems</h3>
 
